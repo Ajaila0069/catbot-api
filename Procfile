@@ -1,1 +1,1 @@
-web:gunicorn yeeyee:bot
+web: gunicorn yeeyee:bot
