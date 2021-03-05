@@ -1,1 +1,1 @@
-web: gunicorn app:yeeyee
+web:gunicorn app:yeeyee
